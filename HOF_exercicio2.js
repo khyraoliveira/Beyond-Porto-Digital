@@ -14,3 +14,4 @@ console.log(pares);
 const filtrarPares2 = x => x.filter(num => num % 2 == 0);
 const pares2 = filtrarPares2(array);
 console.log(pares2);
+//

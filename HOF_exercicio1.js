@@ -11,3 +11,4 @@ console.log(calcularMedia(10,8));
 
 const calcularMedia2 = (a,b) => (a+b)/2;
 console.log(calcularMedia2(10,8));
+//

@@ -17,3 +17,4 @@ function mapearNomes(persons){
 
 const upperCase = mapearNomes(persons);
 console.log(upperCase);
+//

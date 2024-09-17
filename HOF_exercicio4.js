@@ -17,3 +17,4 @@ const b = 5;
 console.log(`A soma entre ${a} e ${b} é: ${executarOperacao(a, b, somar)}!`);
 console.log(`A multiplicação entre ${a} e ${b} é: ${executarOperacao(a, b, multiplicar)}!`);
 console.log(`A divisão entre ${a} e ${b} é: ${executarOperacao(a, b, dividir)}!`);
+//console.log()
