@@ -1,6 +1,6 @@
 /*
 Implemente uma função chamada filtrarPares que recebe um array de números e
-retorna um novo array contendo apenas os números pares. Use o método filter para realizar a filtragem.
+retorna um NOVO ARRAY contendo apenas os números pares. Use o método filter para realizar a filtragem.
 */
 
 const array = [3, 10, 16, 21, 45];

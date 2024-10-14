@@ -1,0 +1,1 @@
+// eu fiz algo parecido nesse projetinho: https://github.com/khyraoliveira/ClimaAPI-JS
